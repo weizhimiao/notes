@@ -1,6 +1,4 @@
 
-
-
 ## 目录
 - 介绍
 - 先决条件
@@ -142,4 +140,4 @@ http {
 如果提供的名称和密码与密码文件中的名称和密码不匹配，则会出现“401需要授权”错误。
 
 
-[RESTRICTING ACCESS WITH HTTP BASIC AUTHENTICATION](https://www.nginx.com/resources/admin-guide/restricting-access-auth-basic/#combine);
+[来自：RESTRICTING ACCESS WITH HTTP BASIC AUTHENTICATION](https://www.nginx.com/resources/admin-guide/restricting-access-auth-basic/#combine);
